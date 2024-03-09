@@ -1,2 +1,16 @@
+'''
+
+Start
+
+Create a variable called "hero" and assign it the value “$$$Superman$$$”
+
+Use the function strip() to remove the symbols from the beginning and end of the string
+
+Print the variable "hero"
+
+End
+
+'''
+
 hero = "$$$Superman$$$"
 print(hero.strip("$"))
