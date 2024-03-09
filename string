@@ -12,5 +12,6 @@ End
 
 '''
 
+# using the function strip() to remove characters from the the string to make it clear.
 hero = "$$$Superman$$$"
 print(hero.strip("$"))
